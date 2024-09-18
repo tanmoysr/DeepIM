@@ -14,6 +14,6 @@ Use [run_model.py](/code/run_model.py) to run the model and [configuration.py](/
 We compare the performance of DeepIM with other existing approaches using six real-world datasets: Cora-ML, Network Science, Power Grid, Jazz, Digg, and Weibo. Additionally, we employ a synthetic dataset generated using the Erdos-Renyi algorithm with 50,000 nodes.
 
 ## Citation
-If you use this work, please cite the following paper.
+If you use this work, please cite the following article.
 
-Chowdhury, Tanmoy, Chen Ling, Junji Jiang, Junxiang Wang, My T. Thai, and Liang Zhao. "Deep Graph Representation Learning Influence Maximization with Accelerated Inference." Available at SSRN 4663083.
+Chowdhury, Tanmoy, Chen Ling, Junji Jiang, Junxiang Wang, My T. Thai, and Liang Zhao. "Deep graph representation learning influence maximization with accelerated inference." Neural Networks (2024): 106649.
